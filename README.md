@@ -7,7 +7,7 @@
 ![Power Query](https://img.shields.io/badge/Power%20Query-Data%20Transformation-green)
 ![GitHub](https://img.shields.io/badge/Portfolio-Project-black)
 
-## Project Overview
+## Turning E-Commerce Orders Data into Actionable Business Insights 
 
 This project analyzes e-commerce sales data using Power BI.
 An interactive Power BI dashboard designed to analyze e-commerce sales performance, monitor business metrics, and explore product and sales trends.
