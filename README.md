@@ -8,6 +8,7 @@
 ![GitHub](https://img.shields.io/badge/Portfolio-Project-black)
 
 ## Turning E-Commerce Orders Data into Actionable Business Insights 
+An interactive E-Commerce Orders and Sales Performance Dashboard developed using Microsoft Power BI to analyse order trends, customer behaviour, sales performance, and sales target achievement.
 
-This project analyzes e-commerce sales data using Power BI.
-An interactive Power BI dashboard designed to analyze e-commerce sales performance, monitor business metrics, and explore product and sales trends.
+This project transforms order and sales-related data into interactive visual reports that help identify business trends, monitor performance, and support data-driven decision-making.
+
