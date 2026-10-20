@@ -31,3 +31,44 @@ Sales Target: Sales target monitoring and performance comparisons.
 SM Sales by Country: Geographical sales analysis and sales manager comparisons.
 
 The dashboard provides a consolidated view of different aspects of sales operations and enables users to explore the data through interactive report visuals and filters.
+
+## The objectives of this project are:
+•	Clean and prepare e-commerce orders data.
+•	Model relationships between orders, customers, and sales targets.
+•	Calculate sales performance and target achievement metrics.
+•	Visualize key trends and insights using Power BI dashboards.
+•	Enable interactive analysis to support business decisions.
+
+## Business objectives :
+Analyse order volume and order value over time.
+Understand customer characteristics using available demographic information.
+Examine order distribution across different order sources.
+Compare sales performance across sales teams, sales managers, and sales POCs.
+Monitor actual sales against assigned sales targets.
+Evaluate sales differences and target completion.
+Compare sales performance across customer countries.
+Present business information through interactive Power BI visualisations.
+
+## Dashboard Pages :
+
+### 1. Sales Team Performance
+
+This page focuses on sales team performance and target-related analysis.
+
+*[Sales Team Dashboard](https://github.com/muflih007/E-Commerce-Orders/blob/main/Screenshots/Sales%20Team.png)
+
+### Key areas of analysis:
+
+Comparison of sales teams and sales managers.
+Analysis of sales performance by sales POC.
+Examination of sales target buckets.
+Comparison of total sales and total targets.
+Analysis of sales differences.
+
+### Business purpose:
+Help management compare sales performance across teams and identify areas that may require additional attention.
+
+
+
+
+
