@@ -25,6 +25,7 @@ In this project, I developed an interactive Power BI dashboard to explore order 
 
 The report contains four analytical pages:
 
+
 Sales Team: Sales team, sales manager, and sales POC performance.
 
 
