@@ -26,9 +26,16 @@ In this project, I developed an interactive Power BI dashboard to explore order 
 The report contains four analytical pages:
 
 Sales Team: Sales team, sales manager, and sales POC performance.
+
+
 Orders: Order trends, order values, customer-related information, and order sources.
+
+
 Sales Target: Sales target monitoring and performance comparisons.
+
+
 SM Sales by Country: Geographical sales analysis and sales manager comparisons.
+
 
 The dashboard provides a consolidated view of different aspects of sales operations and enables users to explore the data through interactive report visuals and filters.
 
