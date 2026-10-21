@@ -41,37 +41,78 @@ SM Sales by Country: Geographical sales analysis and sales manager comparisons.
 The dashboard provides a consolidated view of different aspects of sales operations and enables users to explore the data through interactive report visuals and filters.
 
 ## The objectives of this project are:
+
+
 •	Clean and prepare e-commerce orders data.
+
+
 •	Model relationships between orders, customers, and sales targets.
+
+
 •	Calculate sales performance and target achievement metrics.
+
+
 •	Visualize key trends and insights using Power BI dashboards.
+
+
 •	Enable interactive analysis to support business decisions.
 
+
+
 ## Business objectives :
+
+
 Analyse order volume and order value over time.
+
+
 Understand customer characteristics using available demographic information.
+
+
 Examine order distribution across different order sources.
+
+
 Compare sales performance across sales teams, sales managers, and sales POCs.
+
+
 Monitor actual sales against assigned sales targets.
+
+
 Evaluate sales differences and target completion.
+
+
 Compare sales performance across customer countries.
+
+
 Present business information through interactive Power BI visualisations.
+
+
 
 ## Dashboard Pages 
 
+
+
 ### 1. Sales Team Performance
 
+
 This page focuses on sales team performance and target-related analysis.
+
 
 *[Sales Team Dashboard](https://github.com/muflih007/E-Commerce-Orders/blob/main/Screenshots/Sales%20Team.png)
 
 #### Key areas of analysis :
 
 Comparison of sales teams and sales managers.
+
+
 Analysis of sales performance by sales POC.
+
+
 Examination of sales target buckets.
+
+
 Comparison of total sales  total targets and target completion by sales manager
 Analysis of sales differences.
+
 
 #### Business purpose:
 Help management compare sales performance across teams and identify areas that may require additional attention.
@@ -86,11 +127,23 @@ This page focuses on order trends, order values, and customer-related informatio
 #### Key areas of analysis:
 
 Order volume and order value trends over time.
+
+
 Comparison of order values across customer groups.
+
+
 Analysis of orders by customer country.
+
+
 Examination of order sources.
+
+
 Exploration of customer characteristics, including age and gender.
+
+
 Analysis of customers who have not placed orders, using the available customer-related measure.
+
+
 
 #### Business purpose:
 Help stakeholders understand order activity, customer engagement, and differences in order behaviour.
@@ -105,11 +158,23 @@ This page supports sales target monitoring and performance evaluation.
 #### Key areas of analysis:
 
 Comparison of total sales against total targets.
+
+
 Evaluation of sales target completion.
+
+
 Analysis by sales team.
+
+
 Analysis by sales manager.
+
+
 Analysis by sales POC.
+
+
 Filtering the analysis by order date.
+
+
 
 #### Business purpose:
 Help management monitor sales progress, compare performance with targets, and identify potential gaps in sales achievement.
@@ -123,9 +188,17 @@ This page provides a geographical view of sales performance.
 #### Key areas of analysis:
 
 Comparison of sales across customer countries.
+
+
 Analysis of sales manager performance.
+
+
 Comparison of total sales and total targets.
+
+
 Review of sales performance across geographical segments.
+
+
 
 #### Business purpose:
 Support geographical sales comparisons and help stakeholders understand how sales performance varies across countries and sales managers.
@@ -135,11 +208,22 @@ Support geographical sales comparisons and help stakeholders understand how sale
 
 ### Tool / Technology	                 Purpose
 Microsoft Power BI	     : Dashboard development and data visualisation
+
+
 Power Query	             : Data preparation and transformation
+
+
 DAX	                     : Measures and business calculations
+
+
 Data Modelling	         : Organising relationships between analytical tables
+
+
 Interactive Visuals      :	Exploring sales and order information
+
+
 GitHub	                 : Project documentation and portfolio presentation
+
 
 ##  Key Performance Indicators
 
@@ -147,12 +231,25 @@ The report includes fields and calculations that support analysis of the followi
 
 ### KPI	                                  Purpose
 Total Sales	                  : Evaluate overall sales performance
+
+
 Total Orders	                : Understand order volume
+
+
 Order Value	                  : Analyse the value of customer orders
+
+
 Total Target	                : Review assigned sales targets
+
+
 Sales Difference              :	Examine the difference between sales and targets
+
+
 Target Completion %           :	Evaluate progress towards sales targets
+
+
 Customers Who Did Not Order %	: Understand customer ordering engagement
+
 
 ## Business Questions
 
