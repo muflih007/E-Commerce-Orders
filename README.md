@@ -253,25 +253,53 @@ Customers Who Did Not Order %	: Understand customer ordering engagement
 
 ## Business Questions
 
+
 #### This project explores several business questions:
 
+
 Which sales managers are achieving or exceeding their targets?
+
+
 Which sales teams are underperforming or outperforming?
+
+
 What is the total and average order value by country, category, or sales channel?
+
+
 How many customers did not place any orders?
+
+
 What are the sales trends over time (monthly, quarterly, yearly)?
+
+
 How do order sources (Website, App, etc.) contribute to total sales?
+
+
 Which product categories or countries drive the highest sales?
+
+
 What is the distribution of orders by customer demographics (e.g., gender, age)?
+
+
 Where are most orders geographically located?
+
+
 How does the difference between actual sales and targets look for each Sales Manager?
+
 
 ## Actual Findings : 
 
 Sales Team Alpha Have Achieved More Sales in Sales Target of 2023 . 
+
+
 The Most Orders And Order values Having Months are 2023(Oct,Nov,Dec).
+
+
 Male Customers are more in Every Category .
+
+
 In Most of the Website Orders are the Most .
+
 
 
 ## Data Analysis and Transformation
@@ -281,55 +309,119 @@ The project uses Power Query and Power BI capabilities to prepare and analyse th
 #### The analytical workflow includes:
 
 Data Preparation: Prepare the source data for analysis.
+
+
 Data Transformation: Use Power Query to organise and transform data where required.
+
+
 Data Modelling: Organise the relevant tables and relationships.
+
+
 Measure Development: Use available calculations and DAX measures to support sales and order analysis.
+
+
 Data Visualisation: Present the information through charts, tables, KPI visuals, and other report elements.
+
+
 Interactive Analysis: Use report filters and visual interactions to explore different business dimensions.
 
+
+
 The workflow is designed to make sales and order information easier to interpret and compare.
+
 
 ## Interactive Features
 
 The report includes interactive elements that allow users to explore the data from different perspectives.
 
+
 Date Filtering          : Explore sales performance across selected order dates.
+
+
 Sales Team Filtering    : Focus on individual sales teams.
+
+
 Sales Manager Filtering : Examine performance for selected managers.
+
+
 Sales POC Filtering     : Analyse performance by sales POC.
+
+
 Visual Interactions     : Compare values across charts and tables.
+
+
 Cross-Analysis          : Explore relationships between sales, targets, orders, and customer geography.
+
 
 These features help users investigate specific business questions without relying only on static reports.
 
+
 ## Business Applications
+
 
 The dashboard demonstrates how Power BI can support business activities such as:
 
+
 Monitoring sales performance.
+
+
 Reviewing order trends and order values.
+
+
 Comparing sales teams and sales managers.
+
+
 Tracking progress towards sales targets.
+
+
 Analysing customer ordering behaviour.
+
+
 Comparing sales performance across countries.
+
+
 Supporting management reporting and data-driven decisions.
+
+
 
 The project illustrates how raw business data can be organised into a report that supports performance monitoring and further investigation.
 
+
 ## Skills Demonstrated
+
 
 Through this project, I demonstrated practical experience in:
 
+
 Microsoft Power BI dashboard development.
+
+
 Data preparation using Power Query.
+
+
 DAX-based calculations and measures.
+
+
 Data modelling concepts.
+
+
 KPI reporting and performance analysis.
+
+
 Sales and order trend analysis.
+
+
 Customer and geographical analysis.
+
+
 Interactive data visualisation.
+
+
 Business problem-solving and analytical thinking.
+
+
 Documenting data analytics projects using GitHub.
+
 
 
 ## Author
